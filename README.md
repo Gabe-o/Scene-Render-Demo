@@ -1,8 +1,10 @@
 # Assignment 3
+<img src="https://github.com/Gabe-o/Scene-Render-Demo/blob/main/Screenshot1.png" width="500">
+<img src="https://github.com/Gabe-o/Scene-Render-Demo/blob/main/Screenshot2.png" width="500">
+<img src="https://github.com/Gabe-o/Scene-Render-Demo/blob/main/Screenshot3.png" width="500">
+
 ## Info
-Name: Gabriel Olivotto    
-Email: golivott@uwo.ca  
-Student #: 251150929
+Rendering a link's house from zelda.
 
 ## Submission
 ### Exercise1.cpp
